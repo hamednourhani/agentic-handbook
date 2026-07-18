@@ -14,3 +14,6 @@ Thumbs.db
 
 # Local environment variables
 .env
+
+# Local scratch work, not part of the public handbook
+local/
