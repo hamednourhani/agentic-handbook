@@ -1,0 +1,16 @@
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# IDE/Editor directories
+.vscode/
+.idea/
+
+# Temporary and backup files
+*.swp
+*~
+
+# Local environment variables
+.env
