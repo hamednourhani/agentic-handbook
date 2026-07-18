@@ -6,7 +6,7 @@ This document contains a curated list of external articles, papers, and resource
 
 ## Foundational Concepts
 
-- [Agentic AI Systems by Lilian Weng](https://huyenchip.com/2025/01/07/agents.html) - A comprehensive overview of the core components and design patterns of autonomous agent systems.
+- [Agentic AI Systems by Chip Huyen](https://huyenchip.com/2025/01/07/agents.html) - A comprehensive overview of the core components and design patterns of autonomous agent systems.
 
 ## Tools & Runtimes
 
