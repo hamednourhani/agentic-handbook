@@ -1,3 +1,9 @@
+---
+title: "Agent Security Principles"
+tags: [agent-security, prompt-injection, filesystem-security, sandboxing, concept]
+status: final
+---
+
 # Agent Security Principles
 
 A production-ready agent runtime must treat all external input as potentially hostile. This includes files, user prompts, and tool outputs. The `odek` runtime provides several examples of a security-first design.

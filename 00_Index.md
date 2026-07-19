@@ -16,5 +16,9 @@ This document is the main table of contents for the handbook.
 
 
 ## Case Studies
-- [Architectural Deep Dive: The Odek Agent Runtime](./case-studies/agents/odek-runtime-analysis.md)
-- [Architectural Deep Dive: The Kai Orchestrator Model](./case-studies/agents/kai-orchestrator-analysis.md)
+- [Architectural Deep Dive: The Odek Agent Runtime](./case-studies/agents/odek/odek-runtime-analysis.md)
+- [Architectural Deep Dive: The Kai Orchestrator Model](./case-studies/agents/kai/kai-orchestrator-analysis.md)
+- [Claude Code Context & Token Mechanics (13-part collection)](./case-studies/agents/claude-code/00_Index.md)
+
+## Techniques
+- [Deciding Where a Piece of Information or Task Should Live](./techniques/context-budget-placement-checklist.md)

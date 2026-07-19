@@ -1,3 +1,9 @@
+---
+title: "Skill Injection Patterns"
+tags: [skills, prompt-engineering, agent-architecture, concept]
+status: final
+---
+
 # Skill Injection Patterns
 
 "Skills" are a prompt engineering technique for providing an agent with specialized, just-in-time knowledge for a specific task. They are not a native feature of LLMs but are managed by the agent runtime.

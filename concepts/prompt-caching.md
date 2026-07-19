@@ -1,3 +1,9 @@
+---
+title: "Performance: Prompt Caching"
+tags: [prompt-caching, performance, cost-optimization, concept]
+status: final
+---
+
 # Performance: Prompt Caching
 
 Prompt Caching is an advanced performance optimization used by agent runtimes to reduce latency and cost.

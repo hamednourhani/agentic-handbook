@@ -1,3 +1,9 @@
+---
+title: "Retrieval-Augmented Generation (RAG)"
+tags: [rag, long-term-memory, vector-database, concept]
+status: final
+---
+
 # Retrieval-Augmented Generation (RAG)
 
 RAG is a technique used to provide an agent with a **long-term memory**. It separates the agent's memory into two types:

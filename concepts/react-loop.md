@@ -1,3 +1,9 @@
+---
+title: "The ReAct Loop"
+tags: [react-loop, agent-fundamentals, concept]
+status: final
+---
+
 # The ReAct Loop
 
 **ReAct** stands for **Reason -> Act -> Observe**. It is the fundamental operational cycle for most modern AI agents.
